@@ -1,4 +1,4 @@
-/* Global styles */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -54,7 +54,7 @@
     background-color: #16a085;
   }
   
-  /* Navigation styles */
+ 
   nav {
     display: flex;
     justify-content: space-between;
@@ -79,18 +79,15 @@
     color: #1abc9c;
   }
   
-  /* Header content styles */
   .header-content {
     max-width: 600px;
   }
   
-  /* About section styles */
   #about {
     background-color: #f2f2f2;
     padding: 50px 20px;
   }
   
-  /* Portfolio section styles */
   #portfolio {
     background-color: #fff;
     padding: 50px 20px;
@@ -109,7 +106,6 @@
     margin-top: 20px;
   }
   
-  /* Contact section styles */
   #contact {
     background-color: #34495e;
     color: #fff;
@@ -149,7 +145,6 @@
     background-color: #16a085;
   }
   
-  /* Footer styles */
   footer {
     background-color: #f2f2f2;
     padding: 20px;
